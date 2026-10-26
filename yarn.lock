@@ -102,10 +102,10 @@
   resolved "https://registry.yarnpkg.com/@oxfmt/binding-win32-x64-msvc/-/binding-win32-x64-msvc-0.71.0.tgz#2efb79272344a1044c7dfccccf88fbc97f649760"
   integrity sha512-L06SVp7Hu1EQTkh3+PHnKK26dxVbEpOG2InMwCooTE4MA437b5FgfTleCCiGn4ykISHnHU6UHaIg7SiMO7rBHA==
 
-"@pulsesync/addon-sdk@0.16.0":
-  version "0.16.0"
-  resolved "https://registry.yarnpkg.com/@pulsesync/addon-sdk/-/addon-sdk-0.16.0.tgz#b63244487d2e28a333a22cff06a69205dcf73a86"
-  integrity sha512-Aq4P3eIG3pDu01Bx/YXGbZn2PcFJxBS3PY+dJqhD/Xy/btlINoRnuA+BNNIYYw3TLDD/qwRxp4E/g7BCGBGdIA==
+"@pulsesync/addon-sdk@0.17.0":
+  version "0.17.0"
+  resolved "https://registry.npmjs.org/@pulsesync/addon-sdk/-/addon-sdk-0.17.0.tgz#b10f0ddb4d6abda245541fa4772f692e31221a4d"
+  integrity sha512-IUv4gQ2EAGlibmlJVsk64tquvp4Cmgc7t+v1LuLjBFG2WWf/s7URS6gU2lUjLGipOipERHlFs+7jHNlOcs3G8A==
   dependencies:
     "@pulsesync/yamusic-types" "^0.7.0"
 
